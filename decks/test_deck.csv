@@ -1,0 +1,4 @@
+front,back,more
+front of card one,back of card one,more information on card one
+foo,bar,
+hellö,speciäl chäråcters,Nordic special characters should work using utf-8 file encoding for the .csv deck file
